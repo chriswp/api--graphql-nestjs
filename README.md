@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://grupoimagetech.com.br">
-    <img src="https://www.grupoimagetech.com.br/wp-content/themes/imagetech/assets/images/logo.svg" width="200" alt="Imagetech" />
-  </a>
-</p>
 
 ## Projeto
 Projeto feito com o framework [NestJS](https://github.com/nestjs/nest), consiste em um exemplo de como funciona uma API [GRAPHQL](https://graphql.org/) .<br>
